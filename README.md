@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A minimal CouchDB Plugin to show the current date of server that couchdb runs
 
 it is based on my_first_couchdb_plugin skeleton
@@ -48,13 +47,3 @@ restart CouchDB
 
 ##Test
 curl http://127.0.0.1:5984/_now 
-
-  
-
-
-=======
-couchdb_currentdate_plugin
-==========================
-
-A minimal CouchDB Plugin to show the current date of server that couchdb runs
->>>>>>> 358554e8c262f53a5696857ff43abbbb77337758
